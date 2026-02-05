@@ -30,16 +30,12 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="HTML" width="50>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/git" alt="HTML" width="50>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/github" alt="HTML" width="50>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/java" alt="HTML" width="50>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/postgresql" alt="HTML" width="50>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/python" alt="HTML" width="50>
-
-</p>
 
 
 ### Ferramentas & Conceitos
