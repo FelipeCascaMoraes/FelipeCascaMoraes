@@ -39,7 +39,7 @@
   <img src="https://github.com/devicons/devicon/tree/master/icons/postgresql" alt="HTML" width="50>
   <img src="https://github.com/devicons/devicon/tree/master/icons/python" alt="HTML" width="50>
 
-
+</p>
 
 
 ### Ferramentas & Conceitos
