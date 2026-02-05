@@ -53,14 +53,12 @@
 - **CRUD em C#**  
   Projeto desenvolvido para estudo de back-end, estruturação de classes e manipulação de dados.
 
-*(Mais projetos serão adicionados conforme a evolução dos estudos.)*
+- **Automação com n8n e WhatsApp**  
+  Projeto desenvolvido para fins de estudo, no qual uma automação em **n8n** integra **WhatsApp**, **IA** e **Google Docs**, registrando e organizando automaticamente as solicitações dos usuários enviadas via mensagens. O foco do projeto é automação de fluxo, integração de serviços e tratamento de dados.
+
 
 ---
 
-## 📊 Estatísticas
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeCascaMoraes&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCascaMoraes&layout=compact&theme=dark)
 
 ---
 
@@ -68,5 +66,4 @@
 
 - 📍 Jundiaí - SP  
 - 📧 Email: felipe.casca.moraes@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/felipe-casca-ioli  
 - 🌐 GitHub: https://github.com/FelipeCascaMoraes
