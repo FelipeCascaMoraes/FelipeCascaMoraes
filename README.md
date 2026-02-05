@@ -30,11 +30,17 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens
-- C#
-- Java
-- Python
-- SQL
+<p align="center">
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="HTML" width="50>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/git" alt="HTML" width="50>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/github" alt="HTML" width="50>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/java" alt="HTML" width="50>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/postgresql" alt="HTML" width="50>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/python" alt="HTML" width="50>
+
+
+
 
 ### Ferramentas & Conceitos
 - n8n (automação)
