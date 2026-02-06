@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Felipe Moraes
+# 👋 Olá, eu sou o Felipe Cascaioli de Moraes
 
 🎓 Estudante do **3º ano do Ensino Médio integrado ao Técnico em Informática**  
 💻 Focado em **desenvolvimento back-end**, **bancos de dados** e **automação**  
