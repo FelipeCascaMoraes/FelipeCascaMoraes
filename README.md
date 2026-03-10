@@ -38,8 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-plain.svg" width="50" title="Streamlit"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" title="GitHub"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git"/>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="50" title="n8n"/>
-    <img src="https://www.svgrepo.com/show/306662/robot.svg" width="50" title="Agno AI"/>
+    
 </div>
 
 
