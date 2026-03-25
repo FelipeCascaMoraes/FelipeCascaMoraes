@@ -42,13 +42,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCascaMoraes&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=97f7fd"
-  />
-</div>
 
 ### Ferramentas & Conceitos
 - n8n (automação)
@@ -56,7 +49,13 @@
 - Git & GitHub
 - Lógica de Programação
 - Modelagem de Dados
+<br>
 
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCascaMoraes&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ec4899&text_color=97f7fd"
+  />
+</div>
 ---
 
 ## 📌 Projetos em Destaque
