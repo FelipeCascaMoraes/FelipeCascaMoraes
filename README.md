@@ -1,8 +1,8 @@
 # 👋 Felipe Cascaioli de Moraes
 
--🎓 3º ano do Ensino Médio Técnico em Informática
--💻 Back-end | IA | Dados | Automação
--🌍 Inglês avançado
+🎓 3º ano do Ensino Médio Técnico em Informática<br>
+💻 Back-end | IA | Dados | Automação<br>
+🌍 Inglês avançado
 
 ---
 
@@ -46,7 +46,7 @@ Estudante de tecnologia com foco em **Inteligência Artificial**, **Back-end** e
 ### Ferramentas & Conceitos
 - Python (Pandas, Streamlit, Plotly, LangChain)
 - n8n · Java · C# · PostgreSQL · MySQL · SQL Server
-- APIs REST · LLMs · Git & GitHub
+- APIs · LLMs · Git & GitHub
 
 ---
 
@@ -70,3 +70,4 @@ Estudante de tecnologia com foco em **Inteligência Artificial**, **Back-end** e
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.casca.moraes@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeCascaMoraes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-cascaioli-de-moraes/)
