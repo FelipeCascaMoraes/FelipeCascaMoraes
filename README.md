@@ -1,25 +1,33 @@
-👋 Felipe Cascaioli de Moraes
+# 👋 Felipe Cascaioli de Moraes
 
 🎓 3º ano do Ensino Médio Técnico em Informática
 💻 Back-end | IA | Dados | Automação
 🌍 Inglês avançado
 
-🚀 Perfil Profissional
+---
 
-Estudante de tecnologia com foco em Inteligência Artificial, Back-end e Dados, com experiência prática em automação, integração de APIs e desenvolvimento de agentes de IA. Interesse forte em mercado financeiro e aplicações de IA para análise de dados.
+## 🚀 Perfil Profissional
 
-Experiência com Python, Java, C#, n8n e integrações
-Conhecimento em PostgreSQL, MySQL e SQL Server
-Desenvolvimento de agentes com LLMs
-Automação de processos com n8n, LangChain e Agno
-Projetos voltados para IA aplicada e análise financeira
-🧠 Áreas de Interesse
-Inteligência Artificial
-Machine Learning
-Análise de Dados
-Back-end Development
-Automação de Processos
-Trading Quantitativo
+Estudante de tecnologia com foco em **Inteligência Artificial**, **Back-end** e **Dados**, com experiência prática em automação, integração de APIs e desenvolvimento de agentes de IA. Interesse forte em mercado financeiro e aplicações de IA para análise de dados.
+
+- ⚙️ Experiência com Python, Java, C#, n8n e integrações
+- 🗄️ Conhecimento em PostgreSQL, MySQL e SQL Server
+- 🤖 Desenvolvimento de agentes com LLMs
+- 🔄 Automação de processos com n8n, LangChain e Agno
+- 📊 Projetos voltados para IA aplicada e análise financeira
+
+---
+
+## 🧠 Áreas de Interesse
+
+- Inteligência Artificial
+- Machine Learning
+- Análise de Dados
+- Back-end Development
+- Automação de Processos
+- Trading Quantitativo
+
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -35,34 +43,29 @@ Trading Quantitativo
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
 </div>
 
-
 ### Ferramentas & Conceitos
 - n8n (automação)
 - CRUD (Create, Read, Update, Delete)
 - Git & GitHub
 - Lógica de Programação
 - Modelagem de Dados
-<br>
-
-## 📌 Projetos em Destaque
-
-- **CRUD em Java**  
-  Projeto acadêmico focado em operações CRUD, organização de código e persistência de dados.
-
-- **CRUD em C#**  
-  Projeto desenvolvido para estudo de back-end, estruturação de classes e manipulação de dados.
-
-- **Automação com n8n e WhatsApp**  
-  Projeto desenvolvido para fins de estudo, no qual uma automação em **n8n** integra **WhatsApp**, **IA** e **Google Docs**, registrando e organizando automaticamente as solicitações dos usuários enviadas via mensagens. O foco do projeto é automação de fluxo, integração de serviços e tratamento de dados.
-
 
 ---
 
+## 📌 Projetos em Destaque
+
+- **CRUD em Java**
+  Projeto acadêmico focado em operações CRUD, organização de código e persistência de dados.
+
+- **CRUD em C#**
+  Projeto desenvolvido para estudo de back-end, estruturação de classes e manipulação de dados.
+
+- **Automação com n8n e WhatsApp**
+  Projeto desenvolvido para fins de estudo, no qual uma automação em **n8n** integra **WhatsApp**, **IA** e **Google Docs**, registrando e organizando automaticamente as solicitações dos usuários enviadas via mensagens. O foco do projeto é automação de fluxo, integração de serviços e tratamento de dados.
 
 ---
 
 ## 📫 Contato
 
-- 📍 Jundiaí - SP  
-- 📧 Email: felipe.casca.moraes@gmail.com  
-- 🌐 GitHub: https://github.com/FelipeCascaMoraes
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.casca.moraes@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeCascaMoraes)
