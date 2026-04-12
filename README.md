@@ -1,35 +1,35 @@
 # 👋 Felipe Cascaioli de Moraes
 
-🎓 3º ano do Ensino Médio Técnico em Informática<br>
-💻 Back-end | IA | Dados | Automação<br>
-🌍 Inglês avançado
+🎓 3rd year of Technical High School in Computer Science<br>
+💻 Back-end | AI | Data | Automation<br>
+🌍 Advanced English
 
 ---
 
-## 🚀 Perfil Profissional
+## 🚀 Professional Profile
 
-Estudante de tecnologia com foco em **Inteligência Artificial**, **Back-end** e **Dados**, com experiência prática em automação, integração de APIs e desenvolvimento de agentes de IA. Interesse forte em mercado financeiro e aplicações de IA para análise de dados.
+Technology student focused on **Artificial Intelligence**, **Back-end** and **Data**, with hands-on experience in automation, API integration and AI agent development. Strong interest in financial markets and AI-powered data analysis applications.
 
-- ⚙️ Experiência com Python, Java, C#, n8n e integrações
-- 🗄️ Conhecimento em PostgreSQL, MySQL e SQL Server
-- 🤖 Desenvolvimento de agentes com LLMs
-- 🔄 Automação de processos com n8n, LangChain e Agno
-- 📊 Projetos voltados para IA aplicada e análise financeira
+- ⚙️ Experience with Python, Java, C#, n8n and integrations
+- 🗄️ Knowledge in PostgreSQL, MySQL and SQL Server
+- 🤖 AI agent development with LLMs
+- 🔄 Process automation with n8n, LangChain and Agno
+- 📊 Projects focused on applied AI and financial analysis
 
 ---
 
-## 🧠 Áreas de Interesse
+## 🧠 Areas of Interest
 
-- Inteligência Artificial
+- Artificial Intelligence
 - Machine Learning
-- Análise de Dados
+- Data Analysis
 - Back-end Development
-- Automação de Processos
-- Trading Quantitativo
+- Process Automation
+- Quantitative Trading
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
@@ -43,30 +43,30 @@ Estudante de tecnologia com foco em **Inteligência Artificial**, **Back-end** e
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" title="Java"/>
 </div>
 
-### Ferramentas & Conceitos
+### Tools & Concepts
 - Python (Pandas, Agno, Streamlit, Plotly, LangChain)
 - n8n · Java · C# · PostgreSQL · MySQL · SQL Server
 - APIs · LLMs · Git & GitHub
 
 ---
 
-## 📌 Projetos Relevantes
+## 📌 Featured Projects
 
 - 🤖 **Kerdos AI**
-  Assistente financeiro com IA focado em automação da gestão financeira pessoal, categorização automática de transações e geração de insights com LLMs.
+  AI-powered financial assistant focused on personal finance automation, automatic transaction categorization and LLM-driven insights.
 
 - 🌍 **Geopolitical Agent**
-  Agente de IA para análise geopolítica com chat interativo, feed de notícias em tempo real e análises automatizadas.
+  AI agent for geopolitical analysis with interactive chat, real-time news feed and automated reports.
 
-- 📈 **Análise de Ativos**
-  Dashboard de análise de ações da B3 com gráficos (1D, 1S, 1M, 6M, 1A) e integração com notícias em tempo real.
+- 📈 **Asset Analysis**
+  B3 stock analysis dashboard with charts (1D, 1W, 1M, 6M, 1Y) and real-time news integration.
 
-- 🎬 **Agente de IA para Criação de Conteúdo**
-  Agente que gera conteúdo automaticamente a partir de transcrições de vídeos utilizando LLMs.
+- 🎬 **AI Content Creation Agent**
+  Agent that automatically generates content from video transcriptions using LLMs.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.casca.moraes@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeCascaMoraes)
