@@ -1,32 +1,25 @@
-# 👋 Olá, eu sou o Felipe Cascaioli de Moraes
+👋 Felipe Cascaioli de Moraes
 
-🎓 Estudante do **3º ano do Ensino Médio integrado ao Técnico em Informática**  
-💻 Focado em **desenvolvimento back-end**, **bancos de dados** e **automação**  
-🌍 **Inglês avançado**
+🎓 3º ano do Ensino Médio Técnico em Informática
+💻 Back-end | IA | Dados | Automação
+🌍 Inglês avançado
 
----
+🚀 Perfil Profissional
 
-## 🚀 Sobre mim
+Estudante de tecnologia com foco em Inteligência Artificial, Back-end e Dados, com experiência prática em automação, integração de APIs e desenvolvimento de agentes de IA. Interesse forte em mercado financeiro e aplicações de IA para análise de dados.
 
-- Estudante de Técnico em Informática, com interesse sólido em tecnologia aplicada
-- Forte afinidade com **SQL** e modelagem de dados
-- Experiência acadêmica e prática com **C#**, **Java** e **Python**
-- Interesse crescente em **automação de processos** utilizando **n8n**
-- Atualmente iniciando estudos em **Machine Learning** e **LLMs**, com foco em aplicações práticas
-- Busco evoluir por meio de **projetos reais**, código limpo e aprendizado contínuo
-
----
-
-## 🧠 Áreas de Interesse
-
-- Back-end Development  
-- Bancos de Dados Relacionais (SQL)  
-- Automação de processos (n8n)  
-- Integração de sistemas  
-- Machine Learning (iniciante)  
-- Large Language Models – LLMs (iniciante)
-
----
+Experiência com Python, Java, C#, n8n e integrações
+Conhecimento em PostgreSQL, MySQL e SQL Server
+Desenvolvimento de agentes com LLMs
+Automação de processos com n8n, LangChain e Agno
+Projetos voltados para IA aplicada e análise financeira
+🧠 Áreas de Interesse
+Inteligência Artificial
+Machine Learning
+Análise de Dados
+Back-end Development
+Automação de Processos
+Trading Quantitativo
 
 ## 🛠️ Tecnologias e Ferramentas
 
