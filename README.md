@@ -44,7 +44,7 @@ Estudante de tecnologia com foco em **Inteligência Artificial**, **Back-end** e
 </div>
 
 ### Ferramentas & Conceitos
-- Python (Pandas, Streamlit, Plotly, LangChain)
+- Python (Pandas, Agno, Streamlit, Plotly, LangChain)
 - n8n · Java · C# · PostgreSQL · MySQL · SQL Server
 - APIs · LLMs · Git & GitHub
 
